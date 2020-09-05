@@ -1,8 +1,0 @@
-theme: jekyll-theme-cayman
-# Site settings
-title: Nothing to do here
-email: your-email@domain.com
-description: &gt;
- Hanya contoh untuk tutorial membuat Web Statis dengan Jekyll.
-baseurl: ""
-url: "https://zaklabs.github.io/learn-flask" # the base hostname & protocol for your site
