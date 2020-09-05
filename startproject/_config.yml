@@ -21,8 +21,7 @@
 # Site settings
 title: Nothing to do here
 email: your-email@domain.com
-description: &gt;
- Hanya contoh untuk tutorial membuat Web Statis dengan Jekyll.
+description: Hanya contoh untuk tutorial membuat Web Statis dengan Jekyll.
 baseurl: ""
 url: "https://zaklabs.github.io" # the base hostname & protocol for your site
 # Build settings
