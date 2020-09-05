@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 # Site settings
-title: Nothing to do here
-email: your-email@domain.com
+title: Teting Github Page
+email: zfuadi81@gmail.com
 description: Hanya contoh untuk tutorial membuat Web Statis dengan Jekyll.
 baseurl: ""
 url: "https://zaklabs.github.io" # the base hostname & protocol for your site
