@@ -25,15 +25,15 @@ description: Hanya contoh untuk tutorial membuat Web Statis dengan Jekyll.
 baseurl: ""
 url: "https://zaklabs.github.io" # the base hostname & protocol for your site
 # Build settings
-#theme: minima
-#plugins:
-#  - jekyll-feed
-
-remote_theme: chesterhow/tale
-
+theme: minima
 plugins:
-  - jekyll-paginate
-  - jekyll-remote-theme
+  - jekyll-feed
+
+#remote_theme: chesterhow/tale
+
+#plugins:
+#  - jekyll-paginate
+#  - jekyll-remote-theme
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
