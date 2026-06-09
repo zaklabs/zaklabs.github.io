@@ -1,1 +1,2 @@
-analytics.google.com
+||analytics.google.com^
+||api.sprig.com^
