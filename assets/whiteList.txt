@@ -1,3 +1,4 @@
 ||analytics.google.com^
 ||api.sprig.com^
 ||google-analytics.com^
+||histats.com
